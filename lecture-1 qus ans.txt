@@ -1,0 +1,55 @@
+Sure, here are 18 important questions and answers from the given document:
+
+1. What are the three ways to access the Internet and the web?
+Answer: The three ways to access the Internet and the web are through a desktop computer, a laptop, or a mobile device.
+
+2. What is a URL?
+Answer: A URL is a unique address that identifies a computer on the Internet.
+
+3. What does a URL consist of?
+Answer: A URL consists of a domain name and top-level domain designation.
+
+4. What are the types of web sites?
+Answer: The types of web sites include personal web sites, commercial web sites, educational web sites, and government web sites.
+
+5. What are some other Internet services?
+Answer: Other Internet services include email, instant messaging, and file sharing.
+
+6. What is the difference between the Internet and the World Wide Web?
+Answer: The Internet is a global network of computers, while the World Wide Web is a collection of web pages and other resources that are accessed through the Internet.
+
+7. What is a domain name?
+Answer: A domain name is a unique name that identifies a website.
+
+8. What is a top-level domain designation?
+Answer: A top-level domain designation is the last part of a domain name, such as .com, .org, or .edu.
+
+9. What is a folder in a URL?
+Answer: A folder in a URL is a location on a web server where files are stored.
+
+10. How can you access a web page?
+Answer: You can access a web page by entering its unique address, called the Uniform Resource Locator (URL), in a browser’s address bar.
+
+11. What is the purpose of a protocol in a URL?
+Answer: The purpose of a protocol in a URL is to specify the method used to access the resource.
+
+12. What is the purpose of a forward slash in a URL?
+Answer: The purpose of a forward slash in a URL is to separate folder and file names.
+
+13. What is the difference between a domain name and a URL?
+Answer: A domain name is part of a URL that identifies a website, while a URL is the complete address used to access a resource on the Internet.
+
+14. What is the purpose of the World Wide Web?
+Answer: The purpose of the World Wide Web is to provide a platform for sharing information and resources on the Internet.
+
+15. What is the difference between a web page and a website?
+Answer: A web page is a single page of content on the World Wide Web, while a website is a collection of related web pages.
+
+16. What is the purpose of a browser’s address bar?
+Answer: The purpose of a browser’s address bar is to allow users to enter the URL of a web page they want to access.
+
+17. What is the purpose of a top-level domain?
+Answer: The purpose of a top-level domain is to categorize websites based on their purpose or location.
+
+18. What is the purpose of a folder in a URL?
+Answer: The purpose of a folder in a URL is to organize files on a web server and make them easier to access.
